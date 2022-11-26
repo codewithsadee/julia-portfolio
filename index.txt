@@ -1,0 +1,161 @@
+Julia - I'm User Interface Designer & Developer.
+
+This is a personal portfolio html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Julia home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About
+Projects
+Blog
+Contact
+
+info@email.com
+00 (123) 456 78 90
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+alt = Julia
+
+alt = 250+ Projects Done
+
+I'm User Interface Designer & Developer.
+
+Hello! I'm Julia, a freelance user interface designer & developer based in London. I’m very passionate about the work that I do.
+
+See My Works
+Contact Me
+
+
+
+#---------- ABOUT ----------#
+
+What I Do?
+
+Duis mollis est commodo luctus nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl.
+
+Web Design
+100 %
+bg-color = #c7b1dd
+
+Mobile Design
+80 %
+bg-color = #8caeec
+
+Development
+85 %
+bg-color = #b0d4c1
+
+SEO
+90 %
+bg-color = #e3a6b6
+
+alt = web design icon
+Web Design
+
+Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Cras justo cum sociis natoque magnis.
+
+alt = mobile design icon
+Mobile Design
+
+alt = web development icon
+Development
+
+alt = web seo icon
+SEO
+
+
+
+#---------- PROJECT ----------#
+
+Latest Projects
+
+Check out some of my latest projects with creative ideas.
+
+See All Projects
+
+bg-color - #f8f5fb
+color - #a07cc5
+Web Design
+Snowlake Theme
+
+Maecenas faucibus mollis interdum sed posuere consectetur est at lobortis. Scelerisque id ligula porta felis euismod semper. Fusce dapibus tellus cursus.
+
+See Project
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = Web Design
+
+bg-color - #f1f5fd
+color - #3f78e0
+Mobile Design
+Budget App
+
+alt = Mobile Design
+
+bg-color - #f5faf7
+color - #7cb798
+Web Design
+Missio Theme
+
+Maecenas faucibus mollis interdum sed posuere porta consectetur cursus porta lobortis. Scelerisque id ligula felis.
+
+alt = Web Design
+
+bg-color - #fcf4f6
+color - #d16b86
+Mobile Design
+Storage App
+
+Maecenas faucibus mollis interdum sed posuere consectetur est at lobortis. Scelerisque id ligula porta felis euismod semper.
+
+alt = Mobile Design
+
+
+
+
+#---------- CONTACT ----------#
+
+alt = envelop icon
+
+If you like what you see, let's work together.
+
+I bring rapid solutions to make the life of my clients easier. Have any questions? Reach out to me from this contact form and I will get back to you shortly.
+
+Name *
+
+Email *
+
+Message *
+
+Send message
+
+
+
+#---------- FOOTER ----------#
+
+© 2022 codewithsadee. All rights reserved.
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
